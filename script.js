@@ -31,8 +31,6 @@ function generatePassword() {
   var charOptionsArray = [];
   var displayArray = [];
 
-  uppercaseArray [1];
-
   if (lowercaseChar){
     charOptionsArray = charOptionsArray.concat(lowercaseArray);
   }
